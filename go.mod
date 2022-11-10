@@ -1,3 +1,3 @@
-module github.com/kubitodev/traefik-cloudflared-source-ip
+module github.com/tawmu/traefik-cloudflared-source-ip
 
 go 1.18
